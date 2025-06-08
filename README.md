@@ -41,8 +41,7 @@
 
 ```sh
 vcpkg install opencv4:x64-windows
-# или для Linux:
-vcpkg install opencv4
+
 ```
 
 ---
